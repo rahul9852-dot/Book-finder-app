@@ -1,8 +1,8 @@
 # bookfinder-app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c93ac586-e778-4b25-891a-68d50d14ec43/deploy-status)](https://app.netlify.com/sites/bookfinder-app/deploys)
+[![Netlify Status](https://book-finderapp.netlify.app/#/)](https://book-finderapp.netlify.app/#/)
 
-## [View demo](https://bookfinder-app.netlify.com)
+## [View demo](https://book-finderapp.netlify.app/#/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
