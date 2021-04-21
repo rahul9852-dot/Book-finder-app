@@ -1,7 +1,5 @@
 # bookfinder-app
 
-[![Netlify Status](https://book-finderapp.netlify.app/#/)](https://book-finderapp.netlify.app/#/)]
-
 ## [View demo](https://book-finderapp.netlify.app/#/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
