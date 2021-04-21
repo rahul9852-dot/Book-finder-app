@@ -1,6 +1,6 @@
 # bookfinder-app
 
-[![Netlify Status](https://book-finderapp.netlify.app/#/)](https://book-finderapp.netlify.app/#/)
+[![Netlify Status](https://book-finderapp.netlify.app/#/)](https://book-finderapp.netlify.app/#/)]
 
 ## [View demo](https://book-finderapp.netlify.app/#/)
 
